@@ -1,2 +1,3 @@
 # projectg
 practice repository
+readme
